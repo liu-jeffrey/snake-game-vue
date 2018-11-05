@@ -16,11 +16,11 @@ export default {
       snake: { direction: "right", length: 3 }
     };
   },
-  // mounted: function() {
-  //   while (true) {
-  //     break;
-  //   }
-  // },
+  mounted: function() {
+    // while (true) {
+    //   break;
+    // }
+  },
   components: { Cell }
 };
 </script>
